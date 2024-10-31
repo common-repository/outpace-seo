@@ -1,0 +1,29 @@
+== Changelog ==
+
+= 1.3.1 - 12-10-2022 =
+* Fix - Schema Markup Fields
+
+= 1.3.0 - 12-10-2022 =
+* Feature - Schema Markup
+* Fix - Error while saving page and post slug
+
+= 1.2.0 - 05-09-2022 =
+* Fix - Page not save
+* Fix - Category not showing on sitemap
+
+= 1.1.2 - 24-08-2022 =
+* Fix - Vendor folder not updated
+
+= 1.1.1 - 24-08-2022 =
+* Fix - Vendor folder not updated
+
+= 1.1.0 - 23-08-2022 =
+* Feature - Title Tag and Meta Description
+* Feature - HTML and XML Sitemaps
+* Feature - Adding Scripts on Header, Footer and Body
+
+= 1.0.1 - 01-07-2022 =
+* Tweak - Added the Icon, Screenshots and Banner for wordpress.org page
+
+= 1.0.0 - 27-06-2022 =
+* Initial Release

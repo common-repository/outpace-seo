@@ -1,0 +1,4361 @@
+# Copyright (C) 2022 Outpaceseo
+# This file is distributed under the same license as the Outpace SEO plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Outpace SEO 1.3.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/outpaceseo\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-10-12T13:06:44+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: outpaceseo\n"
+
+#. Plugin Name of the plugin
+#: includes/class-outpace-seo-admin-menu.php:229
+#: includes/class-outpace-seo-admin-menu.php:702
+msgid "Outpace SEO"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://outpaceseo.com/wordpress-seo-plugin/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Enhance your SEO, improve website traffic, and reduce the number of plugins on your site."
+msgstr ""
+
+#. Author of the plugin
+msgid "Outpaceseo"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://outpaceseo.com/"
+msgstr ""
+
+#: includes/class-outpace-seo-admin-menu.php:92
+msgid "Active?"
+msgstr ""
+
+#: includes/class-outpace-seo-admin-menu.php:93
+msgid "Position"
+msgstr ""
+
+#: includes/class-outpace-seo-admin-menu.php:239
+msgid "Outpace SEO Script"
+msgstr ""
+
+#: includes/class-outpace-seo-admin-menu.php:288
+msgid "Active"
+msgstr ""
+
+#: includes/class-outpace-seo-admin-menu.php:293
+msgid "Position inside the code"
+msgstr ""
+
+#: includes/class-outpace-seo-admin-menu.php:300
+msgid "In which page do you want to insert this code?"
+msgstr ""
+
+#: includes/class-outpace-seo-admin-menu.php:307
+msgid "Include tracking code in which pages?"
+msgstr ""
+
+#: includes/class-outpace-seo-admin-menu.php:314
+msgid "Choose the page"
+msgstr ""
+
+#: includes/class-outpace-seo-admin-menu.php:324
+msgid "Choose the post"
+msgstr ""
+
+#: includes/class-outpace-seo-admin-menu.php:363
+msgid "Meta Title"
+msgstr ""
+
+#: includes/class-outpace-seo-admin-menu.php:368
+msgid "Meta Title here"
+msgstr ""
+
+#: includes/class-outpace-seo-admin-menu.php:375
+msgid "Slug"
+msgstr ""
+
+#: includes/class-outpace-seo-admin-menu.php:380
+msgid "Page slug here"
+msgstr ""
+
+#: includes/class-outpace-seo-admin-menu.php:387
+#: includes/class-outpace-seo-functions.php:278
+msgid "Meta description"
+msgstr ""
+
+#: includes/class-outpace-seo-admin-menu.php:392
+#: includes/class-outpace-seo-functions.php:283
+msgid "Meta Description here"
+msgstr ""
+
+#: includes/class-outpace-seo-admin-menu.php:399
+msgid "Canonical URL"
+msgstr ""
+
+#: includes/class-outpace-seo-admin-menu.php:404
+msgid "Insert canonical URL"
+msgstr ""
+
+#: includes/class-outpace-seo-admin-menu.php:411
+msgid " Allow search engines to show this page in search results?"
+msgstr ""
+
+#: includes/class-outpace-seo-admin-menu.php:618
+msgid "Basic Settings"
+msgstr ""
+
+#: includes/class-outpace-seo-admin-menu.php:625
+#: includes/views/html-admin-options.php:27
+msgid "Search"
+msgstr ""
+
+#: includes/class-outpace-seo-admin-menu.php:633
+msgid "Sitemap"
+msgstr ""
+
+#: includes/class-outpace-seo-admin-menu.php:640
+msgid "General Settings<p class=\"outpaceseo-description\">These are the basic features of this plugin.</p>"
+msgstr ""
+
+#: includes/class-outpace-seo-custom-post.php:82
+msgid "Add New"
+msgstr ""
+
+#: includes/class-outpace-seo-custom-post.php:83
+msgid "Add New "
+msgstr ""
+
+#: includes/class-outpace-seo-custom-post.php:84
+msgid "New "
+msgstr ""
+
+#: includes/class-outpace-seo-custom-post.php:85
+msgid "Edit "
+msgstr ""
+
+#: includes/class-outpace-seo-custom-post.php:86
+msgid "View "
+msgstr ""
+
+#: includes/class-outpace-seo-custom-post.php:87
+msgid "All "
+msgstr ""
+
+#: includes/class-outpace-seo-custom-post.php:88
+msgid "Search "
+msgstr ""
+
+#: includes/class-outpace-seo-custom-post.php:89
+msgid "Parent "
+msgstr ""
+
+#: includes/class-outpace-seo-custom-post.php:90
+#: includes/class-outpace-seo-custom-post.php:91
+msgid "No "
+msgstr ""
+
+#: includes/class-outpace-seo-functions.php:266
+msgid "SEO Title"
+msgstr ""
+
+#: includes/class-outpace-seo-functions.php:271
+msgid "SEO Title here"
+msgstr ""
+
+#: includes/class-outpace-seo-functions.php:299
+msgid "Please use this shortcode for HTML sitemap"
+msgstr ""
+
+#: includes/class-outpace-seo-functions.php:302
+msgid "You can preview your sitemap here"
+msgstr ""
+
+#: includes/class-outpace-seo-functions.php:308
+msgid "Include Homepage"
+msgstr ""
+
+#: includes/class-outpace-seo-functions.php:312
+msgid "Include Pages"
+msgstr ""
+
+#: includes/class-outpace-seo-functions.php:316
+msgid "Include Posts"
+msgstr ""
+
+#: includes/class-outpace-seo-functions.php:320
+msgid "Include Recent Archive"
+msgstr ""
+
+#: includes/class-outpace-seo-functions.php:327
+msgid "Include Categories"
+msgstr ""
+
+#: includes/class-outpace-seo-functions.php:331
+msgid "Includes Tags"
+msgstr ""
+
+#: includes/class-outpace-seo-functions.php:335
+msgid "Include Older Archive"
+msgstr ""
+
+#: includes/class-outpace-seo-functions.php:339
+msgid "Include Author Pages"
+msgstr ""
+
+#: includes/class-outpace-seo-functions.php:356
+msgid "Set Image Title for new uploads"
+msgstr ""
+
+#: includes/class-outpace-seo-functions.php:360
+msgid "Set Image Alt Text for new uploads"
+msgstr ""
+
+#: includes/class-outpace-seo-functions.php:364
+msgid "Set Image Caption for new uploads"
+msgstr ""
+
+#: includes/class-outpace-seo-functions.php:368
+msgid "Set Image Description for new uploads"
+msgstr ""
+
+#: includes/class-outpace-seo-functions.php:375
+msgid "Remove hyphens ( - ) from filename"
+msgstr ""
+
+#: includes/class-outpace-seo-functions.php:379
+msgid "Remove underscores ( _ ) from filename"
+msgstr ""
+
+#: includes/class-outpace-seo-functions.php:383
+msgid "Remove numbers ( 0-9 ) from filename"
+msgstr ""
+
+#: includes/class-outpace-seo-functions.php:390
+msgid "Insert Image Title into post HTML. This will add title=\"Image Title\" in the &lt;img&gt; tag"
+msgstr ""
+
+#: includes/class-outpace-seo-install.php:85
+msgid "View Outpaceseo Settings"
+msgstr ""
+
+#: includes/class-outpace-seo-install.php:85
+msgid "Settings"
+msgstr ""
+
+#: includes/class-outpace-seo-process.php:38
+msgid "Counter reset. The bulk updater will start from scratch in the next run."
+msgstr ""
+
+#: includes/class-outpace-seo-process.php:94
+msgid "Image attributes updated for: "
+msgstr ""
+
+#: includes/class-outpace-seo-schema-setup.php:49
+msgid "Choose Schema Type"
+msgstr ""
+
+#: includes/class-outpace-seo-schema-setup.php:54
+msgid "Set Target Pages"
+msgstr ""
+
+#: includes/class-outpace-seo-schema-setup.php:59
+msgid "Ready!"
+msgstr ""
+
+#: includes/class-outpace-seo-schema-setup.php:118
+msgid "Outpaceseo schema setup"
+msgstr ""
+
+#: includes/class-outpace-seo-schema-setup.php:140
+msgid "Outpaceseo Schema"
+msgstr ""
+
+#: includes/class-outpace-seo-schema-setup.php:153
+msgid "Exit Setup Wizard"
+msgstr ""
+
+#: includes/class-outpace-seo-schema-setup.php:203
+msgid "Select the Schema Type:"
+msgstr ""
+
+#: includes/class-outpace-seo-schema-setup.php:221
+#: includes/class-outpace-seo-schema-setup.php:358
+msgid "Next"
+msgstr ""
+
+#: includes/class-outpace-seo-schema-setup.php:316
+#: includes/class-outpace-seo-schema.php:3075
+msgid "Enable On"
+msgstr ""
+
+#: includes/class-outpace-seo-schema-setup.php:317
+msgid "Add target pages where this Schema should appear."
+msgstr ""
+
+#: includes/class-outpace-seo-schema-setup.php:324
+#: includes/class-outpace-seo-schema.php:3083
+msgid "Display Rules"
+msgstr ""
+
+#: includes/class-outpace-seo-schema-setup.php:328
+#: includes/class-outpace-seo-schema.php:3087
+msgid "Add “AND” Rule"
+msgstr ""
+
+#: includes/class-outpace-seo-schema-setup.php:337
+#: includes/class-outpace-seo-schema.php:3096
+msgid "Exclude From"
+msgstr ""
+
+#: includes/class-outpace-seo-schema-setup.php:338
+msgid "This Schema will not appear at these pages."
+msgstr ""
+
+#: includes/class-outpace-seo-schema-setup.php:345
+#: includes/class-outpace-seo-schema.php:3104
+msgid "Exclude On"
+msgstr ""
+
+#: includes/class-outpace-seo-schema-setup.php:348
+#: includes/class-outpace-seo-schema.php:3107
+msgid "Add “OR” Rule"
+msgstr ""
+
+#: includes/class-outpace-seo-schema-setup.php:446
+msgid "Your Schema is Ready!"
+msgstr ""
+
+#: includes/class-outpace-seo-schema-setup.php:461
+msgid "Here’s what to do next:"
+msgstr ""
+
+#: includes/class-outpace-seo-schema-setup.php:462
+msgid "Step 1: Complete the setup and proceed to fill the required properties of this schema."
+msgstr ""
+
+#: includes/class-outpace-seo-schema-setup.php:463
+msgid "Step 2: Add necessary Schema information on individual pages and posts."
+msgstr ""
+
+#: includes/class-outpace-seo-schema-setup.php:464
+msgid "Step 3: Test if Schema is integrated correctly."
+msgstr ""
+
+#: includes/class-outpace-seo-schema-setup.php:470
+msgid "Complete Setup"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:166
+msgid "Fixed Option"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:170
+msgid "Fixed Options"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:174
+msgid "Fixed Number"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:178
+msgid "Fixed Date"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:182
+msgid "Fixed Time"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:186
+msgid "Fixed Date & Time"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:190
+msgid "Fixed Rating"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:208
+msgid "Type"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:209
+msgid "Target Location"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:210
+msgid "Date"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:229
+msgid "Enable On: "
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:237
+msgid "Exclude From: "
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:328
+msgid "Article"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:333
+msgid "Article Type"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:337
+msgid "Article (General)"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:338
+msgid "Advertiser Content Article"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:339
+msgid "Blog Posting"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:340
+msgid "News Article"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:341
+msgid "Report"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:342
+msgid "Satirical Article"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:343
+msgid "Scholarly Article"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:344
+msgid "Tech Article"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:349
+#: includes/class-outpace-seo-schema.php:426
+#: includes/class-outpace-seo-schema.php:1584
+#: includes/class-outpace-seo-schema.php:2775
+msgid "Author Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:355
+#: includes/class-outpace-seo-schema.php:2778
+msgid "Author URL"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:360
+#: includes/class-outpace-seo-schema.php:574
+msgid "Image"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:366
+msgid "Short Description"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:371
+#: includes/class-outpace-seo-schema.php:432
+#: includes/class-outpace-seo-schema.php:1137
+#: includes/class-outpace-seo-schema.php:1393
+msgid "URL"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:376
+msgid "Headline"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:382
+msgid "Published Date"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:388
+msgid "Modified Date"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:394
+#: includes/class-outpace-seo-schema.php:1288
+#: includes/class-outpace-seo-schema.php:1905
+msgid "Publisher Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:400
+#: includes/class-outpace-seo-schema.php:1910
+msgid "Publisher Logo"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:410
+#: includes/class-outpace-seo-schema.php:1246
+msgid "Book"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:415
+msgid "Title Of The Book"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:421
+msgid "Image Of The Book"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:438
+msgid "Book Edition Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:443
+msgid "ISBN"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:447
+#: includes/class-outpace-seo-schema.php:2136
+msgid "The International Standard Book Number (ISBN) is a unique numeric commercial book identifier. ISBN having 10 or 13 digit number."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:450
+msgid "Book Format"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:455
+msgid "The format of the book using one or more of the [ EBook, Hardcover, Paperback, AudioBook ] values"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:459
+msgid "Book Edition"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:465
+msgid "Platform URL Template"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:469
+msgid "Provide the link in which platform works. For example desktop web browsers link"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:472
+msgid " Work Platforms"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:477
+msgid "The platform(s) on which the link works For example Works on desktop web browsers, Works on mobile web browsers."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:480
+msgid "Offer Price"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:490
+msgid "Offer Price Currency"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:497
+msgid "Offer Eligible Country"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:503
+msgid "Offer Availability Status"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:511
+#: includes/class-outpace-seo-schema.php:686
+#: includes/class-outpace-seo-schema.php:1388
+msgid "A Reference Link"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:514
+#: includes/class-outpace-seo-schema.php:689
+#: includes/class-outpace-seo-schema.php:1390
+#: includes/class-outpace-seo-schema.php:2148
+#: includes/class-outpace-seo-schema.php:2686
+msgid "A reference page that unambiguously indicates the item's identity; for example, the URL of the item's Wikipedia page, Freebase page, or official website."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:521
+#: includes/class-outpace-seo-schema.php:1247
+msgid "Course"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:526
+msgid "Course Title"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:532
+#: includes/class-outpace-seo-schema.php:1984
+msgid "Description"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:535
+msgid "A description of the course. Display limit of 60 characters."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:539
+msgid "Course Code"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:542
+msgid "The identifier for the Course used by the course provider (e.g. CS101 or 6.001)."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:545
+msgid "Course Provider"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:548
+msgid "The organization that publishes the source content of the course. For example, UC Berkeley."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:551
+#: includes/class-outpace-seo-schema.php:720
+msgid "Course Instance"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:553
+msgid "An offering of the course at a specific time and place or through specific media or mode of study or to a specific section of students."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:556
+msgid "Instance Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:562
+msgid "Instance Description"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:568
+msgid "Course Mode"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:571
+msgid "The medium or means of delivery of the course instance or the mode of study, either as a text label (e.g. \"online\", \"onsite\" or \"blended\"; \"synchronous\" or \"asynchronous\"; \"full-time\" or \"part-time\") or as a URL reference to a term from a controlled vocabulary (e.g. https://ceds.ed.gov/element/001311#Asynchronous )"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:579
+msgid "Course Status"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:584
+msgid "The status of the Course Instance."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:588
+msgid "Course Attendance Mode"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:593
+msgid "The location of the Course Instance. There are different requirements depending on if the Course is happening online or at a physical location."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:597
+#: includes/class-outpace-seo-schema.php:775
+msgid "Start Date"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:603
+#: includes/class-outpace-seo-schema.php:781
+msgid "End Date"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:608
+msgid "Course Previous Start Date"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:614
+msgid "Online Course URL"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:620
+msgid "Course Organizer Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:624
+msgid "The person or organization that is hosting the Course."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:628
+msgid "Course Organizer URL"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:634
+#: includes/class-outpace-seo-schema.php:799
+msgid "Location Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:638
+msgid "The venue of the course."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:641
+msgid "Location Address"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:648
+#: includes/class-outpace-seo-schema.php:850
+#: includes/class-outpace-seo-schema.php:1837
+msgid "Price"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:657
+#: includes/class-outpace-seo-schema.php:859
+#: includes/class-outpace-seo-schema.php:1470
+#: includes/class-outpace-seo-schema.php:1847
+msgid "Currency"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:663
+#: includes/class-outpace-seo-schema.php:865
+msgid "Valid From"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:668
+msgid "Offer URL"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:673
+#: includes/class-outpace-seo-schema.php:843
+msgid "Availability"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:679
+#: includes/class-outpace-seo-schema.php:875
+msgid "Performer"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:692
+#: includes/class-outpace-seo-schema.php:1220
+#: includes/class-outpace-seo-schema.php:1507
+#: includes/class-outpace-seo-schema.php:1722
+#: includes/class-outpace-seo-schema.php:1858
+msgid "Rating"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:697
+#: includes/class-outpace-seo-schema.php:1225
+#: includes/class-outpace-seo-schema.php:1512
+#: includes/class-outpace-seo-schema.php:1727
+#: includes/class-outpace-seo-schema.php:1864
+msgid "Review Count"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:700
+#: includes/class-outpace-seo-schema.php:1228
+#: includes/class-outpace-seo-schema.php:1515
+#: includes/class-outpace-seo-schema.php:1730
+#: includes/class-outpace-seo-schema.php:1868
+#: includes/class-outpace-seo-schema.php:2480
+#: includes/class-outpace-seo-schema.php:2612
+#: includes/class-outpace-seo-schema.php:2647
+msgid "The count of total number of reviews. e.g. \"11\""
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:707
+#: includes/class-outpace-seo-schema.php:1248
+msgid "Event"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:712
+msgid "Event Type"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:716
+msgid "Event (General)"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:717
+msgid "Business Event"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:718
+msgid "Childrens Event"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:719
+msgid "Comedy Event"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:721
+msgid "Dance Event"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:722
+msgid "Delivery Event"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:723
+msgid "Education Event"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:724
+msgid "EventSeries"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:725
+msgid "Exhibition Event"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:726
+msgid "Festival"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:727
+msgid "Food Event"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:728
+msgid "Literary Event"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:729
+msgid "Music Event"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:730
+msgid "Publication Event"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:731
+msgid "Sale Event"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:732
+msgid "Screening Event"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:733
+msgid "Social Event"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:734
+msgid "Sports Event"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:735
+msgid "Theater Event"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:736
+msgid "Visual Arts Event"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:741
+msgid " Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:747
+msgid " Description"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:752
+msgid " Image/Logo"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:757
+#: includes/class-outpace-seo-schema.php:2186
+#: includes/class-outpace-seo-schema.php:2228
+msgid " Status"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:762
+#: includes/class-outpace-seo-schema.php:2191
+#: includes/class-outpace-seo-schema.php:2233
+msgid "The status of the event. If you don't use this field, Google understands the eventStatus to be EventScheduled. "
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:766
+#: includes/class-outpace-seo-schema.php:2195
+#: includes/class-outpace-seo-schema.php:2237
+msgid " Attendance Mode"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:771
+#: includes/class-outpace-seo-schema.php:2200
+#: includes/class-outpace-seo-schema.php:2242
+msgid "The location of the event. There are different requirements depending on if the event is happening online or at a physical location."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:786
+#: includes/class-outpace-seo-schema.php:2215
+msgid "Previous Start Date"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:792
+#: includes/class-outpace-seo-schema.php:2221
+msgid "Online Event URL"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:803
+msgid "The detailed name of the place or venue where the event is being held. This property is only recommended for events that take place at a physical location."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:806
+#: includes/class-outpace-seo-schema.php:1009
+#: includes/class-outpace-seo-schema.php:1142
+#: includes/class-outpace-seo-schema.php:1358
+#: includes/class-outpace-seo-schema.php:1795
+msgid "Street Address"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:813
+#: includes/class-outpace-seo-schema.php:1015
+#: includes/class-outpace-seo-schema.php:1148
+#: includes/class-outpace-seo-schema.php:1364
+#: includes/class-outpace-seo-schema.php:1785
+msgid "Locality"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:820
+#: includes/class-outpace-seo-schema.php:1021
+#: includes/class-outpace-seo-schema.php:1154
+#: includes/class-outpace-seo-schema.php:1370
+msgid "Postal Code"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:827
+#: includes/class-outpace-seo-schema.php:1027
+#: includes/class-outpace-seo-schema.php:1160
+#: includes/class-outpace-seo-schema.php:1376
+#: includes/class-outpace-seo-schema.php:1790
+msgid "Region"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:834
+#: includes/class-outpace-seo-schema.php:1033
+#: includes/class-outpace-seo-schema.php:1166
+#: includes/class-outpace-seo-schema.php:1382
+msgid "Country"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:847
+msgid "The availability of this event, for example In stock, Out of stock, Pre-order, etc."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:870
+msgid "Online Ticket URL"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:880
+#: includes/class-outpace-seo-schema.php:2329
+msgid "Organizer Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:885
+#: includes/class-outpace-seo-schema.php:2334
+msgid "The person or organization that is hosting the event."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:889
+#: includes/class-outpace-seo-schema.php:2338
+msgid "Organizer URL"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:900
+msgid "Job Posting"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:905
+#: includes/class-outpace-seo-schema.php:1342
+msgid "Job Title"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:911
+msgid "Hiring Organization"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:917
+msgid "Hiring Organization URL"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:921
+msgid "A referenced URL of the organization page to identity information. E.g. The URL of the Organization Wikipedia page, Wikidata entry, or official website."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:924
+msgid "Hiring Organization Logo"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:929
+msgid "Industry"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:934
+msgid "Employment Type"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:940
+msgid "Job Description"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:946
+msgid "Date Posted"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:952
+msgid "Valid Through"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:957
+msgid "Education"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:960
+msgid "Educational background needed for the position or Occupation."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:963
+msgid "Job Experience"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:968
+msgid "Qualifications"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:971
+msgid "Specific qualifications required for this role or Occupation.For example A diploma, academic degree, certification."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:974
+msgid "Responsibilities"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:979
+msgid "Skills"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:984
+msgid "Work Hours"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:989
+msgid "Job Location Type"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:993
+msgid "Use value \"TELECOMMUTE\" for jobs in which the employee may or must work remotely 100% of the time."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:996
+msgid "Remote Location"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1000
+msgid "Applicant Location"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1004
+msgid "The geographic location(s) in which employees may be located to be eligible for the Remote job."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1040
+msgid "Base Salary"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1045
+msgid "Min Salary"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1050
+msgid "Max Salary"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1055
+msgid "Salary In Currency"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1061
+msgid "Salary Per Unit"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1065
+msgid "A string or text indicating the unit of salary measurement. For example MONTH, YEAR."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1072
+msgid "Local Business"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1077
+msgid "Business Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1083
+msgid "Local Business Type"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1087
+msgid "General"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1088
+msgid "Animal Shelter"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1089
+msgid "Automotive"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1090
+msgid "Child Care"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1091
+msgid "Dentist"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1092
+msgid "Dry Cleaning Or Laundry"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1093
+msgid "Emergency Service"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1094
+msgid "Employment Agency"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1095
+msgid "Entertainment"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1096
+msgid "Financial Service"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1097
+msgid "Food Establishment"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1098
+msgid "Government Office"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1099
+msgid "Health And Beauty"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1100
+msgid "Home And Construction"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1101
+msgid "Internet Cafe"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1102
+msgid "Legal Service"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1103
+msgid "Library"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1104
+msgid "Locksmith"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1105
+msgid "Lodging"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1106
+msgid "Medical Business"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1107
+msgid "Radio Station"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1108
+msgid "Real Estate Agent"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1109
+msgid "Recycling Center"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1110
+msgid "Self Storage"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1111
+msgid "Shopping Center"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1112
+msgid "Sports Activity Location"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1113
+msgid "Store"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1114
+msgid "Television Station"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1115
+msgid "Tourist Information Center"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1116
+msgid "Travel Agency"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1120
+msgid "Business Image"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1126
+#: includes/class-outpace-seo-schema.php:1332
+#: includes/class-outpace-seo-schema.php:1800
+msgid "Telephone"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1131
+#: includes/class-outpace-seo-schema.php:1805
+msgid "Price Range"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1134
+msgid "The relative price range of a business, commonly specified by either a numerical range (for example, \"$10-15\") or a normalized number of currency signs (for example, \"$$$\")"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1174
+msgid "Hours Specification"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1178
+msgid "Day Of Week"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1183
+msgid "Here, you can select multiple days. e.g. \"11\""
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1186
+msgid "Opens"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1192
+msgid "Closes"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1200
+msgid " Latitude"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1207
+msgid "The latitude of the business location. . e.g. \"37.293058\""
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1210
+msgid "Longitude"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1217
+msgid "The longitude of the business location. e.g. \"-121.988331\""
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1235
+#: includes/class-outpace-seo-schema.php:1476
+#: includes/class-outpace-seo-schema.php:1518
+msgid "Review"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1240
+msgid "Review Item Type"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1244
+msgid "Select Item Type"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1245
+#: includes/class-outpace-seo-schema.php:1405
+msgid "Product"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1249
+msgid "Local business"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1250
+#: includes/class-outpace-seo-schema.php:1553
+msgid "Recipe"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1251
+#: includes/class-outpace-seo-schema.php:1814
+msgid "Software Application"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1252
+msgid "Movie"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1253
+#: includes/class-outpace-seo-schema.php:1279
+#: includes/class-outpace-seo-schema.php:1485
+#: includes/class-outpace-seo-schema.php:1527
+#: includes/class-outpace-seo-schema.php:1580
+msgid "Organization"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1257
+#: includes/class-outpace-seo-schema.php:1500
+#: includes/class-outpace-seo-schema.php:1542
+msgid "Review Body"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1263
+msgid "Review Date"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1269
+msgid "Review Rating"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1274
+#: includes/class-outpace-seo-schema.php:1480
+#: includes/class-outpace-seo-schema.php:1522
+msgid "Reviewer Type"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1278
+#: includes/class-outpace-seo-schema.php:1297
+#: includes/class-outpace-seo-schema.php:1484
+#: includes/class-outpace-seo-schema.php:1526
+#: includes/class-outpace-seo-schema.php:1579
+msgid "Person"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1283
+#: includes/class-outpace-seo-schema.php:1489
+#: includes/class-outpace-seo-schema.php:1531
+msgid "Reviewer Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1303
+msgid "Person Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1309
+msgid "Gender"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1315
+msgid "DOB"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1320
+msgid "Member Of"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1323
+msgid "An Organization (or ProgramMembership) to which this Person or Organization belongs."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1326
+msgid "Person Email"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1337
+msgid "Photograph"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1347
+msgid "Homepage URL"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1352
+msgid "Nationality"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1410
+#: includes/class-outpace-seo-schema.php:2406
+msgid "Product Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1416
+msgid "Product Brand"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1421
+msgid "Product Image"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1427
+msgid "Product URL"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1432
+#: includes/class-outpace-seo-schema.php:2428
+msgid "Product Description"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1437
+#: includes/class-outpace-seo-schema.php:2434
+msgid "Product SKU"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1440
+msgid "The Stock Keeping Unit (SKU) is a unique numerical identifying number that refers to a specific stock item in a retailers inventory or product catalog."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1443
+#: includes/class-outpace-seo-schema.php:2440
+msgid "Product MPN"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1446
+#: includes/class-outpace-seo-schema.php:2443
+msgid "The Manufacturer Part Number (MPN) of the product, or the product to which the offer refers. e.g. \"925872\""
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1449
+#: includes/class-outpace-seo-schema.php:2446
+msgid "Product Availability"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1455
+msgid "Price Valid Until"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1458
+msgid "The date after which the price will no longer be available. e.g. \"31/12/2021 09:00 AM\""
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1461
+#: includes/class-outpace-seo-schema.php:2457
+msgid "Product Price"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1495
+#: includes/class-outpace-seo-schema.php:1537
+#: includes/class-outpace-seo-schema.php:2472
+msgid "Product Rating"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1558
+#: includes/class-outpace-seo-schema.php:2487
+msgid "Recipe Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1564
+#: includes/class-outpace-seo-schema.php:2493
+msgid "Recipe Photo"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1570
+#: includes/class-outpace-seo-schema.php:2499
+msgid "Recipe Description"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1575
+msgid "Author Type"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1589
+msgid "Preparation Time"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1594
+msgid "Cook Time"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1599
+msgid "Keywords"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1602
+#: includes/class-outpace-seo-schema.php:2522
+msgid "e.g. \"winter apple pie\", \"nutmeg crust\""
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1605
+#: includes/class-outpace-seo-schema.php:2525
+msgid "Recipe Category"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1608
+#: includes/class-outpace-seo-schema.php:2528
+msgid "e.g. \"dinner\", \"entree\", or \"dessert\""
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1611
+#: includes/class-outpace-seo-schema.php:2531
+msgid "Recipe Cuisine"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1614
+#: includes/class-outpace-seo-schema.php:2534
+msgid "e.g. \"French\", \"Indian\", or \"American\""
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1617
+#: includes/class-outpace-seo-schema.php:2537
+msgid "Recipe Calories"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1620
+#: includes/class-outpace-seo-schema.php:2540
+msgid "The number of calories in the recipe."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1623
+#: includes/class-outpace-seo-schema.php:2543
+msgid "Recipe Ingredients"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1626
+#: includes/class-outpace-seo-schema.php:2546
+msgid "Ingredient used in the recipe. Separate multiple ingredients with comma(,)."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1629
+msgid "Recipe Yield"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1635
+msgid "Recipe Instructions"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1639
+msgid "Instructions Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1645
+msgid "Instructions Step"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1650
+msgid "Instructions URL"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1656
+msgid "Instructions Image"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1665
+msgid "Recipe Video"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1670
+msgid "Video Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1676
+#: includes/class-outpace-seo-schema.php:1887
+msgid "Video Description"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1682
+msgid "Thumbnail URL"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1688
+#: includes/class-outpace-seo-schema.php:1915
+#: includes/class-outpace-seo-schema.php:2090
+msgid "Content URL"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1693
+#: includes/class-outpace-seo-schema.php:1920
+msgid "Embed URL"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1698
+msgid "Duration"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1703
+msgid "Upload Date"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1709
+msgid "Expires On"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1714
+msgid "Interaction Count"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1717
+#: includes/class-outpace-seo-schema.php:1938
+msgid "The number of times the video has been watched."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1737
+msgid "Service"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1742
+msgid "Service Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1748
+msgid "Service Type"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1752
+msgid "The type of service being offered, e.g. Broadcast Service, Cable Or Satellite Service, etc."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1755
+msgid "Service Area"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1758
+msgid "The geographic area where a service or offered item is provided."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1761
+msgid "Service Provider Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1767
+msgid "Service Provider Image"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1771
+msgid "The service provider or service operator Image ."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1774
+msgid "Service Description"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1779
+msgid "Service Image"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1782
+msgid "Here,you can add specific service image."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1819
+msgid "Application Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1825
+msgid "Application Type"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1831
+msgid "Operating System"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1834
+#: includes/class-outpace-seo-schema.php:2628
+msgid "Software for the operating system, for example, \"Windows 7\", \"OSX 10.6\", \"Android 1.6\""
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1853
+msgid "Application Image"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1875
+msgid "Video Object"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1881
+msgid "Video Title"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1893
+msgid "Video Thumbnail"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1899
+msgid "Video Upload Date"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1925
+msgid "Video Duration"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1930
+msgid "Video Expires On"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1935
+msgid "Video Interaction Count"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1945
+msgid "FAQ"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1951
+msgid "Question-Answer"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1955
+msgid "Question"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1961
+msgid "Answer"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1973
+msgid "How-to"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1978
+#: includes/class-outpace-seo-schema.php:2000
+#: includes/class-outpace-seo-schema.php:2013
+msgid "Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1989
+msgid "Total Time"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1992
+msgid "The total time required to perform instructions or a direction (including time to prepare the supplies)."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1995
+msgid "Materials"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:1997
+msgid "The supply property lists the item(s) “consumed when performing instructions or a direction.”"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2008
+msgid "Tools"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2010
+msgid "The tool property lists the item(s) used (but not consumed) when performing instructions or a direction."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2021
+msgid "Steps"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2024
+msgid "Google needs at least two steps."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2027
+msgid "Step Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2033
+msgid "Step Description"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2039
+msgid "Step URL"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2045
+msgid "Step Image"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2058
+#: includes/class-outpace-seo-schema.php:2063
+msgid "Custom Markup"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2066
+msgid ""
+"Be sure to add custom schema markup in JSON-LD format.\n"
+"\t\t\t\t\t\t\t\tAs the custom schema markup in JSON-LD format, make sure to add it in script tag.\n"
+"\t\t\t\t\t\t\t\tValidate schema markup with the Structured Data Testing Tool or Rich Results Test before adding to the website."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2079
+#: includes/class-outpace-seo-schema.php:2085
+msgid "Image License"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2087
+msgid "Include the license property for your image to be eligible to be shown with the Licensable badge"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2096
+msgid "License"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2102
+msgid "Acquire License Page"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2119
+msgid "Book Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2125
+msgid "Book Description"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2132
+msgid "Book ISBN"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2139
+msgid "Book Author Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2145
+msgid "Same As"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2155
+msgid "Course Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2161
+msgid "Course Description"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2166
+msgid "Course Organization Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2175
+msgid "Event Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2181
+msgid "Event Image"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2204
+msgid "Event Start Date"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2210
+msgid "Event End Date"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2246
+msgid "Event Location Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2252
+msgid "Event Street Address"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2259
+msgid "Event Locality"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2266
+msgid "Event Postal Code"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2273
+msgid "Event Region"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2280
+msgid "Event Country"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2288
+msgid "Event Offer Availability"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2294
+msgid "Event Offer Price"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2303
+msgid "Event Currency"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2309
+msgid "Event Offer Valid From"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2314
+msgid "Event Ticket Link"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2319
+msgid "Event Performer"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2324
+msgid "Event Description"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2350
+msgid "Local Business Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2356
+msgid "Local Business Image"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2362
+msgid "Local Business Telephone"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2367
+msgid "Local Business Street Address"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2373
+msgid "Local Business Locality"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2379
+msgid "Local Business Postal Code"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2385
+msgid "Local Business Region"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2391
+msgid "Local Business Country"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2397
+msgid "Local Business Price Range"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2412
+msgid "Product Brand Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2417
+msgid " Product Image"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2423
+msgid " Product URL"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2437
+msgid "The Stock Keeping Unit (SKU), a merchant-specific identifier for a product or service, or the product e.g. \"0446310786\""
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2452
+msgid "Product Price Valid Until"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2466
+msgid "Product Currency"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2477
+msgid "Product Review Count"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2504
+msgid "Recipe Author Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2509
+msgid "Recipe Preparation Time"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2514
+msgid "Recipe Cook Time"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2519
+msgid "Recipe Keywords"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2549
+msgid "Recipe Instructions Step"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2552
+msgid "Recipe Instructions Steps used in the recipe. Separate multiple Instructions Steps with comma(,)."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2555
+msgid "Recipe Video Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2561
+msgid "Recipe Video Description"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2567
+msgid "Recipe Video Thumbnail Url"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2573
+msgid "Recipe Video Content URL"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2578
+msgid "Recipe Video Embed URL"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2583
+msgid "Recipe Video  Duration"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2588
+msgid "Recipe Video Upload Date"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2594
+msgid "Recipe Video Expires On"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2599
+msgid "Recipe Video Interaction Count"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2604
+msgid "Recipe Video Rating"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2609
+msgid "Recipe Video Review Count"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2619
+msgid "Software Application Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2625
+msgid "Software Application Operating System"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2631
+msgid "Software Application Category"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2637
+msgid "Software Application Rating"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2643
+msgid "Software Application Review Count"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2650
+msgid "Software Application Price"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2660
+msgid "Software Application Currency"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2670
+msgid "Movie Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2676
+msgid "Movie Description"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2682
+msgid "Movie SameAs"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2689
+msgid "Movie Image"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2695
+msgid "Movie Date"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2700
+msgid "Movie Director Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2709
+msgid "Organization Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2715
+msgid "Organization Street Address"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2720
+msgid "Organization Locality"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2725
+msgid "Organization Postal Code"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2730
+msgid "Organization Region"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2735
+msgid "Organization Country"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2761
+#: includes/class-outpace-seo-schema.php:2799
+msgid "Site Meta"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2763
+msgid "Site Title"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2764
+msgid "Tagline"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2765
+msgid "Site URL"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2769
+#: includes/class-outpace-seo-schema.php:2805
+msgid "Post Meta (Basic Fields)"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2771
+msgid "Title"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2772
+msgid "Content"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2773
+msgid "Excerpt"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2774
+msgid "Permalink"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2776
+msgid "Author First Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2777
+msgid "Author Last Name"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2779
+msgid "Publish Date"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2780
+msgid "Last Modify Date"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2784
+#: includes/class-outpace-seo-schema.php:2812
+msgid "Add Custom Info"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2786
+msgid "Fixed Text"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2787
+#: includes/class-outpace-seo-schema.php:2816
+msgid "New Custom Field"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2791
+#: includes/class-outpace-seo-schema.php:2820
+msgid "All Other Custom Fields"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2793
+#: includes/class-outpace-seo-schema.php:2822
+msgid "Select Other Custom Fields Here"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2801
+msgid "Logo"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2807
+msgid "Featured Image"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2808
+msgid "Author Image"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2814
+msgid "Fixed Image"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2815
+msgid "Image URL"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2885
+#: includes/class-outpace-seo-schema.php:2892
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:2961
+msgid "Schema Settings"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3042
+msgid "Schema Type"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3044
+msgid "Select schema type."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3068
+msgid "Set Target Location"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3069
+msgid "Select location where this schema should be integrated."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3076
+msgid "Add target locations where this Schema should appear."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3097
+msgid "This Schema will not appear at these locations."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3118
+msgid "All Schema Fields"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3119
+msgid "Below are the fields/properties that Google Requires you to fill so that the schema will work properly."
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3134
+msgid "Guidelines"
+msgstr ""
+
+#. translators: %s Schema type
+#: includes/class-outpace-seo-schema.php:3141
+msgid "Read Guidelines for %s Schema"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3390
+msgid "None"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3471
+msgid "Select Image"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3594
+msgid "Discontinued"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3595
+msgid "In Stock"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3596
+msgid "In Store Only"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3597
+msgid "Limited Availability"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3598
+msgid "Online Only"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3599
+msgid "Out Of Stock"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3600
+msgid "Pre Order"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3601
+msgid "Pre Sale"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3602
+msgid "Sold Out"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3603
+msgid "Back Order"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3613
+msgid "EBook"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3614
+msgid "Hardcover"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3615
+msgid "Paperback"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3616
+msgid "AudioBook"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3624
+msgid "Scheduled"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3625
+msgid "Rescheduled"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3626
+msgid "Postponed"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3627
+msgid "Moved Online"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3628
+msgid "Cancelled"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3636
+msgid "Physical Location"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3637
+msgid "Online Event"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3638
+msgid "Mix Of Online & Physical Locations"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3647
+msgid "DesktopWebPlatform"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3648
+msgid "MobileWebPlatform"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3649
+msgid "AndroidPlatform"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3650
+msgid "IOSPlatform"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3658
+msgid "Monday"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3659
+msgid "Tuesday"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3660
+msgid "Wednesday"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3661
+msgid "Thursday"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3662
+msgid "Friday"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3663
+msgid "Saturday"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3664
+msgid "Sunday"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3672
+msgid "Afghanistan"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3673
+msgid "Åland Islands"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3674
+msgid "Albania"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3675
+msgid "Algeria"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3676
+msgid "American Samoa"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3677
+msgid "Andorra"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3678
+msgid "Angola"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3679
+msgid "Anguilla"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3680
+msgid "Antarctica"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3681
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3682
+msgid "Argentina"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3683
+msgid "Armenia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3684
+msgid "Aruba"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3685
+msgid "Australia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3686
+msgid "Austria"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3687
+msgid "Azerbaijan"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3688
+msgid "Bahrain"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3689
+msgid "Bahamas"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3690
+msgid "Bangladesh"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3691
+msgid "Barbados"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3692
+msgid "Belarus"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3693
+msgid "Belgium"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3694
+msgid "Belize"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3695
+msgid "Benin"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3696
+msgid "Bermuda"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3697
+msgid "Bhutan"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3698
+msgid "Bonaire, Sint Eustatius and Saba"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3699
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3700
+msgid "Botswana"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3701
+msgid "Bouvet Island"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3702
+msgid "Brazil"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3703
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3704
+msgid "Brunei Darussalam"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3705
+msgid "Bulgaria"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3706
+msgid "Burkina Faso"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3707
+msgid "Burundi"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3708
+msgid "Cambodia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3709
+msgid "Cameroon"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3710
+msgid "Canada"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3711
+msgid "Cape Verde"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3712
+msgid "Cayman Islands"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3713
+msgid "Central African Republic"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3714
+msgid "Chad"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3715
+msgid "Chile"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3716
+msgid "China"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3717
+msgid "Christmas Island"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3718
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3719
+msgid "Colombia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3720
+msgid "Comoros"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3721
+msgid "Congo"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3722
+msgid "Congo, the Democratic Republic of the"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3723
+msgid "Cook Islands"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3724
+msgid "Costa Rica"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3725
+msgid "Ivory Coast"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3726
+msgid "Croatia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3727
+msgid "Cuba"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3728
+msgid "Curaçao"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3729
+msgid "Cyprus"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3730
+msgid "Czech Republic"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3731
+msgid "Denmark"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3732
+msgid "Djibouti"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3733
+msgid "Dominica"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3734
+msgid "Dominican Republic"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3735
+msgid "Ecuador"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3736
+msgid "Egypt"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3737
+msgid "El Salvador"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3738
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3739
+msgid "Eritrea"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3740
+msgid "Estonia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3741
+msgid "Ethiopia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3742
+msgid "Falkland Islands (Malvinas)"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3743
+msgid "Faroe Islands"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3744
+msgid "Federated States of Micronesia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3745
+msgid "Fiji"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3746
+msgid "Finland"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3747
+msgid "France"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3748
+msgid "French Guiana"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3749
+msgid "French Polynesia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3750
+msgid "French Southern Territories"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3751
+msgid "Gabon"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3752
+msgid "Gambia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3753
+msgid "Georgia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3754
+msgid "Germany"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3755
+msgid "Ghana"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3756
+msgid "Gibraltar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3757
+msgid "Greece"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3758
+msgid "Greenland"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3759
+msgid "Grenada"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3760
+msgid "Guadeloupe"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3761
+msgid "Guam"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3762
+msgid "Guatemala"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3763
+msgid "Guernsey"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3764
+msgid "Guinea"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3765
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3766
+msgid "Guyana"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3767
+msgid "Haiti"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3768
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3769
+msgid "Holy See (Vatican City State)"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3770
+msgid "Honduras"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3771
+msgid "Hong Kong"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3772
+msgid "Hungary"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3773
+msgid "Iceland"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3774
+msgid "India"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3775
+msgid "Indonesia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3776
+msgid "Iran, Islamic Republic of"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3777
+msgid "Iraq"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3778
+msgid "Ireland"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3779
+msgid "Isle of Man"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3780
+msgid "Israel"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3781
+msgid "Italy"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3782
+msgid "Jamaica"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3783
+msgid "Japan"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3784
+msgid "Jersey"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3785
+msgid "Jordan"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3786
+msgid "Kazakhstan"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3787
+msgid "Kenya"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3788
+msgid "Kiribati"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3789
+msgid "Korea, Democratic People's Republic of"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3790
+msgid "Korea, Republic of"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3791
+msgid "Kuwait"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3792
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3793
+msgid "Laos"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3794
+msgid "Latvia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3795
+msgid "Lebanon"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3796
+msgid "Lesotho"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3797
+msgid "Liberia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3798
+msgid "Libya"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3799
+msgid "Liechtenstein"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3800
+msgid "Lithuania"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3801
+msgid "Luxembourg"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3802
+msgid "Macao"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3803
+msgid "Madagascar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3804
+msgid "Malawi"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3805
+msgid "Malaysia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3806
+msgid "Maldives"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3807
+msgid "Mali"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3808
+msgid "Malta"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3809
+msgid "Marshall Islands"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3810
+msgid "Martinique"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3811
+msgid "Mauritania"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3812
+msgid "Mauritius"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3813
+msgid "Mayotte"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3814
+msgid "Mexico"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3815
+msgid "Monaco"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3816
+msgid "Mongolia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3817
+msgid "Montenegro"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3818
+msgid "Montserrat"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3819
+msgid "Morocco"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3820
+msgid "Mozambique"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3821
+msgid "Myanmar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3822
+msgid "Namibia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3823
+msgid "Nauru"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3824
+msgid "Nepal"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3825
+msgid "Netherlands"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3826
+msgid "New Caledonia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3827
+msgid "New Zealand"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3828
+msgid "Nicaragua"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3829
+msgid "Niger"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3830
+msgid "Nigeria"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3831
+msgid "Niue"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3832
+msgid "Norfolk Island"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3833
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3834
+msgid "Norway"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3835
+msgid "Oman"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3836
+msgid "Pakistan"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3837
+msgid "Palau"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3838
+msgid "Palestine, State of"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3839
+msgid "Panama"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3840
+msgid "Papua New Guinea"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3841
+msgid "Paraguay"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3842
+msgid "Peru"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3843
+msgid "Philippines"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3844
+msgid "Pitcairn"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3845
+msgid "Plurinational State of Bolivia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3846
+msgid "Poland"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3847
+msgid "Portugal"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3848
+msgid "Puerto Rico"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3849
+msgid "Qatar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3850
+msgid "Réunion"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3851
+msgid "Republic of Macedonia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3852
+msgid "Republic of Moldova"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3853
+msgid "Romania"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3854
+msgid "Russian Federation"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3855
+msgid "Rwanda"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3856
+msgid "Saint Barthélemy"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3857
+msgid "Saint Helena, Ascension and Tristan da Cunha"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3858
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3859
+msgid "Saint Lucia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3860
+msgid "Saint Martin (French part"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3861
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3862
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3863
+msgid "Samoa"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3864
+msgid "San Marino"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3865
+msgid "Sao Tome and Principe"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3866
+msgid "Saudi Arabia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3867
+msgid "Senegal"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3868
+msgid "Serbia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3869
+msgid "Seychelles"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3870
+msgid "Sierra Leone"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3871
+msgid "Singapore"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3872
+msgid "Sint Maarten (Dutch part)"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3873
+msgid "Slovakia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3874
+msgid "Slovenia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3875
+msgid "Solomon Islands"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3876
+msgid "Somalia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3877
+msgid "South Africa"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3878
+msgid "South Georgia and the South Sandwich Islands"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3879
+msgid "South Sudan"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3880
+msgid "Spain"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3881
+msgid "Sri Lanka"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3882
+msgid "Sudan"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3883
+msgid "Suriname"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3884
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3885
+msgid "Swaziland"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3886
+msgid "Sweden"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3887
+msgid "Switzerland"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3888
+msgid "Syrian Arab Republic"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3889
+msgid "Taiwan, Province of China"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3890
+msgid "Tajikistan"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3891
+msgid "Tanzania, United Republic of"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3892
+msgid "Thailand"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3893
+msgid "Timor-Leste"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3894
+msgid "Togo"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3895
+msgid "Tokelau"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3896
+msgid "Tonga"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3897
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3898
+msgid "Tunisia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3899
+msgid "Turkey"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3900
+msgid "Turkmenistan"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3901
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3902
+msgid "Tuvalu"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3903
+msgid "Uganda"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3904
+msgid "Ukraine"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3905
+msgid "United Arab Emirates"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3906
+msgid "United Kingdom"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3907
+msgid "United States"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3908
+msgid "United States Minor Outlying Islands"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3909
+msgid "Uruguay"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3910
+msgid "Uzbekistan"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3911
+msgid "Vanuatu"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3912
+msgid "Venezuela, Bolivarian Republic of"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3913
+msgid "Viet Nam"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3914
+msgid "Virgin Islands, British"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3915
+msgid "Virgin Islands, U.S"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3916
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3917
+msgid "Western Sahara"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3918
+msgid "Yemen"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3919
+msgid "Zambia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3920
+msgid "Zimbabwe"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3928
+msgid "FULL TIME"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3929
+msgid "PART TIME"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3930
+msgid "CONTRACTOR"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3931
+msgid "TEMPORARY"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3932
+msgid "INTERN"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3933
+msgid "VOLUNTEER"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3934
+msgid "PER DIEM"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3935
+msgid "OTHER"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3943
+msgid "Afghan Afghani"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3944
+msgid "Albanian Lek"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3945
+msgid "Algerian Dinar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3946
+msgid "Angolan Kwanza"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3947
+msgid "Argentine Peso"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3948
+msgid "Armenian Dram"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3949
+msgid "Aruban Florin"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3950
+msgid "Australian Dollar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3951
+msgid "Azerbaijani Manat"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3952
+msgid "Bahamian Dollar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3953
+msgid "Bahraini Dinar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3954
+msgid "Bangladeshi Taka"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3955
+msgid "Barbadian Dollar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3956
+msgid "Belarusian Ruble"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3957
+msgid "Belgian Franc"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3958
+msgid "Belize Dollar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3959
+msgid "Bermudan Dollar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3960
+msgid "Bhutanese Ngultrum"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3961
+msgid "Bitcoin"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3962
+msgid "Bolivian Boliviano"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3963
+msgid "Bosnia-Herzegovina Convertible Mark"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3964
+msgid "Botswanan Pula"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3965
+msgid "Brazilian Real"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3966
+msgid "British Pound"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3967
+msgid "Brunei Dollar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3968
+msgid "Bulgarian Lev"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3969
+msgid "Burundian Franc"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3970
+msgid "Cambodian Riel"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3971
+msgid "Canadian Dollar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3972
+msgid "Cape Verdean Escudo"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3973
+msgid "Cayman Islands Dollar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3974
+msgid "Central African CFA Franc"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3975
+msgid "CFP Franc"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3976
+msgid "Chilean Peso"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3977
+msgid "Chinese Yuan"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3978
+msgid "Colombian Peso"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3979
+msgid "Comorian Franc"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3980
+msgid "Congolese Franc"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3981
+msgid "Costa Rican Colón"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3982
+msgid "Croatian Kuna"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3983
+msgid "Cuban Convertible Peso"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3984
+msgid "Czech Koruna"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3985
+msgid "Danish Krone"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3986
+msgid "Djiboutian Franc"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3987
+msgid "Dominican Peso"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3988
+msgid "East Caribbean Dollar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3989
+msgid "Egyptian Pound"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3990
+msgid "Eritrean Nakfa"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3991
+msgid "Estonian Kroon"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3992
+msgid "Ethiopian Birr"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3993
+msgid "Euro"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3994
+msgid "Falkland Islands Pound"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3995
+msgid "Fijian Dollar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3996
+msgid "Gambian Dalasi"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3997
+msgid "Georgian Lari"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3998
+msgid "German Mark"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:3999
+msgid "Ghanaian Cedi"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4000
+msgid "Gibraltar Pound"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4001
+msgid "Greek Drachma"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4002
+msgid "Guatemalan Quetzal"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4003
+msgid "Guinean Franc"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4004
+msgid "Guyanaese Dollar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4005
+msgid "Haitian Gourde"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4006
+msgid "Honduran Lempira"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4007
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4008
+msgid "Hungarian Forint"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4009
+msgid "Icelandic Króna"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4010
+msgid "Indian Rupee"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4011
+msgid "Indonesian Rupiah"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4012
+msgid "Iranian Rial"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4013
+msgid "Iraqi Dinar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4014
+msgid "Israeli New Shekel"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4015
+msgid "Italian Lira"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4016
+msgid "Jamaican Dollar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4017
+msgid "Japanese Yen"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4018
+msgid "Jordanian Dinar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4019
+msgid "Kazakhstani Tenge"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4020
+msgid "Kenyan Shilling"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4021
+msgid "Kuwaiti Dinar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4022
+msgid "Kyrgystani Som"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4023
+msgid "Laotian Kip"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4024
+msgid "Latvian Lats"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4025
+msgid "Lebanese Pound"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4026
+msgid "Lesotho Loti"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4027
+msgid "Liberian Dollar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4028
+msgid "Libyan Dinar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4029
+msgid "Lithuanian Litas"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4030
+msgid "Macanese Pataca"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4031
+msgid "Macedonian Denar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4032
+msgid "Malagasy Ariary"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4033
+msgid "Malawian Kwacha"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4034
+msgid "Malaysian Ringgit"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4035
+msgid "Maldivian Rufiyaa"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4036
+msgid "Mauritanian Ouguiya"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4037
+msgid "Mauritian Rupee"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4038
+msgid "Mexican Peso"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4039
+msgid "Moldovan Leu"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4040
+msgid "Mongolian Tugrik"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4041
+msgid "Moroccan Dirham"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4042
+msgid "Mozambican Metical"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4043
+msgid "Myanmar Kyat"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4044
+msgid "Namibian Dollar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4045
+msgid "Nepalese Rupee"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4046
+msgid "Netherlands Antillean Guilder"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4047
+msgid "New Taiwan Dollar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4048
+msgid "New Zealand Dollar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4049
+msgid "Nicaraguan Córdoba"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4050
+msgid "Nigerian Naira"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4051
+msgid "North Korean Won"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4052
+msgid "Norwegian Krone"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4053
+msgid "Omani Rial"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4054
+msgid "Pakistani Rupee"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4055
+msgid "Panamanian Balboa"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4056
+msgid "Papua New Guinean Kina"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4057
+msgid "Paraguayan Guarani"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4058
+msgid "Peruvian Sol"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4059
+msgid "Philippine Peso"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4060
+msgid "Polish Zloty"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4061
+msgid "Qatari Rial"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4062
+msgid "Romanian Leu"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4063
+msgid "Russian Ruble"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4064
+msgid "Rwandan Franc"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4065
+msgid "Salvadoran Colón"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4066
+msgid "Samoan Tala"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4067
+msgid "Saudi Riyal"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4068
+msgid "Serbian Dinar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4069
+msgid "Seychellois Rupee"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4070
+msgid "Sierra Leonean Leone"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4071
+msgid "Singapore Dollar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4072
+msgid "Slovak Koruna"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4073
+msgid "Solomon Islands Dollar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4074
+msgid "Somali Shilling"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4075
+msgid "South African Rand"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4076
+msgid "South Korean Won"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4077
+msgid "Special Drawing Rights"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4078
+msgid "Sri Lankan Rupee"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4079
+msgid "St. Helena Pound"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4080
+msgid "Sudanese Pound"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4081
+msgid "Surinamese Dollar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4082
+msgid "Swazi Lilangeni"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4083
+msgid "Swedish Krona"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4084
+msgid "Swiss Franc"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4085
+msgid "Syrian Pound"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4086
+msgid "São Tomé & Príncipe Dobra"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4087
+msgid "Tajikistani Somoni"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4088
+msgid "Tanzanian Shilling"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4089
+msgid "Thai Baht"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4090
+msgid "Tongan Pa'anga"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4091
+msgid "Trinidad & Tobago Dollar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4092
+msgid "Tunisian Dinar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4093
+msgid "Turkish Lira"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4094
+msgid "Turkmenistani Manat"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4095
+msgid "Ugandan Shilling"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4096
+msgid "Ukrainian Hryvnia"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4097
+msgid "United Arab Emirates Dirham"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4098
+msgid "Uruguayan Peso"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4099
+msgid "US Dollar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4100
+msgid "Uzbekistani Som"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4101
+msgid "Vanuatu Vatu"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4102
+msgid "Venezuelan Bolívar"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4103
+msgid "Vietnamese Dong"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4104
+msgid "West African CFA Franc"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4105
+msgid "Yemeni Rial"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4106
+msgid "Zambian Kwacha"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4114
+#: includes/class-outpace-seo-schema.php:4134
+msgid "Business App"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4115
+msgid "Game App"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4116
+msgid "Multimedia App"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4117
+msgid "Mobile App"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4118
+msgid "Web App"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4119
+msgid "Social Networking App"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4120
+msgid "Travel App"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4121
+msgid "Shopping App"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4122
+msgid "Sports App"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4123
+msgid "Lifestyle App"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4124
+msgid "Design App"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4125
+msgid "Developer App"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4126
+msgid "Driver App"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4127
+msgid "Educational App"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4128
+msgid "Health App"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4129
+msgid "Finance App"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4130
+msgid "Security App"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4131
+msgid "Browser App"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4132
+msgid "Communication App"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4133
+msgid "Desktop Enhancement App"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4135
+msgid "Home App"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4136
+msgid "Utilities App"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4137
+msgid "Reference App"
+msgstr ""
+
+#: includes/class-outpace-seo-schema.php:4203
+msgid "-- None --"
+msgstr ""
+
+#. translators: %s: singular custom post type name
+#: includes/class-outpace-seo-schema.php:4322
+#: includes/class-outpace-seo-schema.php:4328
+msgid "%s updated."
+msgstr ""
+
+#. translators: %s: singular custom post type name
+#: includes/class-outpace-seo-schema.php:4324
+msgid "Custom %s updated."
+msgstr ""
+
+#. translators: %s: singular custom post type name
+#: includes/class-outpace-seo-schema.php:4326
+msgid "Custom %s deleted."
+msgstr ""
+
+#. translators: %1$s: singular custom post type name ,%2$s: date and time of the revision
+#: includes/class-outpace-seo-schema.php:4330
+msgid "%1$s restored to revision from %2$s"
+msgstr ""
+
+#. translators: %s: singular custom post type name
+#: includes/class-outpace-seo-schema.php:4332
+msgid "%s published."
+msgstr ""
+
+#. translators: %s: singular custom post type name
+#: includes/class-outpace-seo-schema.php:4334
+msgid "%s saved."
+msgstr ""
+
+#. translators: %s: singular custom post type name
+#: includes/class-outpace-seo-schema.php:4336
+msgid "%s submitted."
+msgstr ""
+
+#. translators: %s: singular custom post type name
+#: includes/class-outpace-seo-schema.php:4338
+msgid "%s scheduled for."
+msgstr ""
+
+#. translators: %s: singular custom post type name
+#: includes/class-outpace-seo-schema.php:4340
+msgid "%s draft updated."
+msgstr ""
+
+#: includes/class-outpace-seo-target-rule-field.php:119
+#: includes/class-outpace-seo-target-rule-field.php:164
+msgid "Basic"
+msgstr ""
+
+#: includes/class-outpace-seo-target-rule-field.php:121
+msgid "All Singulars"
+msgstr ""
+
+#: includes/class-outpace-seo-target-rule-field.php:122
+msgid "Front Page"
+msgstr ""
+
+#: includes/class-outpace-seo-target-rule-field.php:146
+msgid "Specific Target"
+msgstr ""
+
+#: includes/class-outpace-seo-target-rule-field.php:148
+msgid "Specific Pages / Posts / Archives etc."
+msgstr ""
+
+#: includes/class-outpace-seo-target-rule-field.php:166
+msgid "All"
+msgstr ""
+
+#: includes/class-outpace-seo-target-rule-field.php:167
+msgid "Logged In"
+msgstr ""
+
+#: includes/class-outpace-seo-target-rule-field.php:168
+msgid "Logged Out"
+msgstr ""
+
+#: includes/class-outpace-seo-target-rule-field.php:173
+msgid "Advanced"
+msgstr ""
+
+#: includes/class-outpace-seo-target-rule-field.php:451
+#: includes/class-outpace-seo-target-rule-field.php:887
+msgid "Add Rule"
+msgstr ""
+
+#: includes/class-outpace-seo-target-rule-field.php:467
+#: includes/class-outpace-seo-target-rule-field.php:569
+#: includes/class-outpace-seo-target-rule-field.php:903
+#: includes/class-outpace-seo-target-rule-field.php:934
+msgid "Select Target Rule"
+msgstr ""
+
+#. translators: %s post label
+#: includes/class-outpace-seo-target-rule-field.php:517
+msgid "All %s"
+msgstr ""
+
+#. translators: %s post label
+#. translators: %s taxonomy label
+#: includes/class-outpace-seo-target-rule-field.php:522
+#: includes/class-outpace-seo-target-rule-field.php:530
+msgid "All %s Archive"
+msgstr ""
+
+#. translators: %s post title.
+#: includes/class-outpace-seo-target-rule-field.php:1374
+msgid "The same display setting does already exist in %1$s %2$s."
+msgstr ""
+
+#: includes/class-outpace-seo-target-rule-field.php:1431
+msgid "Select"
+msgstr ""
+
+#: includes/class-outpace-seo.php:60
+#: includes/class-outpace-seo.php:70
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/class-outpace-seo.php:144
+msgid "OK"
+msgstr ""
+
+#: includes/class-outpace-seo.php:145
+msgid "Cancel"
+msgstr ""
+
+#: includes/class-outpace-seo.php:146
+msgid "You are about to run the test bulk updater. Press OK to confirm."
+msgstr ""
+
+#: includes/class-outpace-seo.php:147
+msgid "You are about to reset the counter. Press OK to confirm."
+msgstr ""
+
+#: includes/class-outpace-seo.php:148
+msgid "You are about to run the bulk updater. Press OK to confirm."
+msgstr ""
+
+#: includes/views/html-admin-basic-options.php:18
+#: includes/views/html-admin-img-attr.php:27
+#: includes/views/html-admin-search.php:23
+#: includes/views/html-admin-sitemap.php:23
+msgid "Save Settings"
+msgstr ""
+
+#: includes/views/html-admin-bulk-uploader.php:17
+#: includes/views/html-admin-img-attr.php:36
+msgid "Run Bulk Updater"
+msgstr ""
+
+#: includes/views/html-admin-bulk-uploader.php:19
+#: includes/views/html-admin-img-attr.php:38
+msgid "Test Bulk Updater"
+msgstr ""
+
+#: includes/views/html-admin-bulk-uploader.php:21
+#: includes/views/html-admin-img-attr.php:40
+msgid "Stop Bulk Updater"
+msgstr ""
+
+#: includes/views/html-admin-bulk-uploader.php:25
+#: includes/views/html-admin-img-attr.php:44
+msgid "Reset Counter"
+msgstr ""
+
+#: includes/views/html-admin-bulk-uploader.php:29
+#: includes/views/html-admin-img-attr.php:48
+msgid "Event Log"
+msgstr ""
+
+#: includes/views/html-admin-bulk-uploader.php:32
+#: includes/views/html-admin-img-attr.php:51
+msgid "Number of Images Remaining: "
+msgstr ""
+
+#: includes/views/html-admin-bulk-uploader.php:34
+#: includes/views/html-admin-img-attr.php:53
+msgid "Number of Images Updated: "
+msgstr ""
+
+#: includes/views/html-admin-options.php:26
+msgid "Image Attributes"
+msgstr ""
+
+#: includes/views/html-admin-options.php:28
+msgid "Site Map"
+msgstr ""
